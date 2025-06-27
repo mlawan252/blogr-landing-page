@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+.bg-gradient-image {
+  background-image: 
+    linear-gradient(to right, rgba(270, 0, 0, 0.5), rgba(250, 0, 0, 0.5)),
+    url('/public/bg-pattern-intro-mobile.svg');
+}
+
+.bg-image{
+  background-image: url('/public/bg-pattern-circles.svg') ;
+}
