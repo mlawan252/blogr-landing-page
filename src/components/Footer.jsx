@@ -15,6 +15,7 @@ function Footer(){
                 <li>Integrations</li>
             </ul>
              <ul className="text-white">
+                <li>Product</li>
                 <li>Overview</li>
                 <li>Pricing</li>
                 <li>Market Place</li>
@@ -22,6 +23,7 @@ function Footer(){
                 <li>Integrations</li>
             </ul>
              <ul className="text-white">
+                <li>Company</li>
                 <li>Overview</li>
                 <li>Pricing</li>
                 <li>Market Place</li>
@@ -29,6 +31,7 @@ function Footer(){
                 <li>Integrations</li>
             </ul>
              <ul className="text-white">
+                <li>Connect</li>
                 <li>Overview</li>
                 <li>Pricing</li>
                 <li>Market Place</li>
